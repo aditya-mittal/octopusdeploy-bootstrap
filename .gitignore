@@ -1,0 +1,10 @@
+.terraform.lock.hcl
+.terraform
+tfplan
+destroy_tfplan
+destroy_plan
+.idea
+*.iml
+**/*.tfstate
+**/*.tfstate.backup
+terraform.tfvars
